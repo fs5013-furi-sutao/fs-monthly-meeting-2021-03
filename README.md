@@ -27,7 +27,7 @@ https://youtu.be/Eji5i1GahKs
 ## 順番抽選ページ
 
 質問者の順番決めに以下のページを利用してください:  
-<a href="https://raw.githack.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/main/ordering-tool.html" target="_blank">https://raw.githack.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/main/ordering-tool.html</a>
+https://raw.githack.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/main/ordering-tool.html
 
 ## ワークの結果発表について
 
