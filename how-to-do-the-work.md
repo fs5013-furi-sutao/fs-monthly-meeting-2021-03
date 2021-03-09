@@ -22,7 +22,7 @@
 以降の自己紹介や質問を行う際の順番決めは、
 以下のツールを使ってください。
 
-質問順番抽選ツール:  
+**質問順番抽選ツール**:  
 https://raw.githack.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/main/ordering-tool.html
 
 ### 1-3. コンパクトに自己紹介タイム（10分）
