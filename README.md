@@ -30,7 +30,7 @@ https://youtu.be/Eji5i1GahKs
 
 詳しいワークの進め方は、以下のページにありますので、ご確認ください。
 
-「あなたのチームメンバを魅力的に紹介しよう」ワークのやり方・進め方:  
+「あなたのチームメンバを魅力的に紹介しよう」ワークのやり方・進め方（詳細）:  
 https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/blob/main/how-to-do-the-work.md
 
 ## チーム分けについて
