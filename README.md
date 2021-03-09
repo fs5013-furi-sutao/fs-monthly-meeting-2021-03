@@ -1,4 +1,4 @@
-<img src="./vIvom2V7_400x400.jpg" style="float: right;" />
+<img src="./vIvom2V7_400x400.jpg" style="text-align: right;" />
 
 # 2021年3月度定例会
 
