@@ -58,7 +58,7 @@ https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/blob/main/how-to
 進行役:    
 **A.** 阪野颯斗  **B.** 中野義嗣  **C.** 斧田和弥  **D.** 林大騎  **E.** 今立唯子  **F.** 近藤大揮  **G.** 奥原有貴  
 
-## チーム 🄰: Teams 小部屋リンク   
+## チーム A: Teams 小部屋リンク   
 
 https://teams.microsoft.com/l/meetup-join/19%3a81f2d33daaa34cd1bee1ec6e7e9c920a%40thread.tacv2/1613123816528?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%229019c8b3-5d03-410c-af57-fde3a773365d%22%7d
 
