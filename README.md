@@ -53,7 +53,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a81f2d33daaa34cd1bee1ec6e7e9c920a%
 https://teams.microsoft.com/l/meetup-join/19%3afa289e31b4aa410485b913a1dfbff086%40thread.tacv2/1613123908085?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%229019c8b3-5d03-410c-af57-fde3a773365d%22%7d
 
 進行役: 中野義嗣
-代表者: 浄土高広  
+代表者: 浄土高広    
 **参加:** 稲垣来未  打屋遥奈  大島寿久  太田真康  浄土高広  金原恭兵    
 **途中参加:** 小林凌弥  小森未有希  渋谷誠之    
 
@@ -93,6 +93,6 @@ https://teams.microsoft.com/l/meetup-join/19%3af24f5f3cd2d1438d849cd498fba71e10%
 https://teams.microsoft.com/l/meetup-join/19%3ac2b9125a09ab42c28f4d6dfebdb98134%40thread.tacv2/1613124405317?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 進行役: 奥原有貴 
-代表者: 山下勇樹   
+代表者: 山下勇樹     
 **参加:** 山下勇樹  山田優一  山本晃大  児山将之    
 **途中参加:** 内田祐太  塩崎永祐  服部睦  安江大吾    
