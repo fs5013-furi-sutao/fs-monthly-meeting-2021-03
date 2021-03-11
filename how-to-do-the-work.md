@@ -83,6 +83,6 @@ https://raw.githack.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/main/orderi
 記載が時間内に間に合わなかった場合は、定例会終了後に残りを記載の上、送信をお願いします。
 
 3月度定例会 感想アンケート記載ページ:  
-https://google.form
+https://github.com/fs5013-furi-sutao/fs-its-accepting-surveys-list
 
 以上でワークは終了です。お疲れ様でした！
