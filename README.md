@@ -56,16 +56,16 @@ https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/blob/main/how-to
 以下にワークを行うチーム分けのメンバを示します（敬称略）。
 
 進行役:    
-**A.** 阪野颯斗  **B.** 中野義嗣  **C.** 斧田和弥  **D.** 林大騎  **E.** 今立唯子  **F.** 近藤大揮  **G.** 奥原有貴  
+**A.** 中野義嗣  **B.** 阪野颯斗  **C.** 斧田和弥  **D.** 今立唯子  **E.** 近藤大揮  **F.** 奥原有貴     
 
 ## チーム A: Teams 小部屋リンク   
 
 https://teams.microsoft.com/l/meetup-join/19%3a81f2d33daaa34cd1bee1ec6e7e9c920a%40thread.tacv2/1613123816528?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%229019c8b3-5d03-410c-af57-fde3a773365d%22%7d
 
 進行役: 中野義嗣  
-代表者: 浄土高広    
-**参加:** 稲垣来未  打屋遥奈  大島寿久  太田真康  浄土高広  金原恭兵    
-**途中参加:** 小林凌弥  小森未有希  渋谷誠之   
+代表者: 内田祐太    
+**参加:** 羽賀文哉  住明日奈  大鹿悠蘭  木村弘樹    
+**途中参加:** 服部睦  花木翔  吉森隆史   
 
 ## チーム B: Teams 小部屋リンク   
 https://teams.microsoft.com/l/meetup-join/19%3afa289e31b4aa410485b913a1dfbff086%40thread.tacv2/1613123908085?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%229019c8b3-5d03-410c-af57-fde3a773365d%22%7d
