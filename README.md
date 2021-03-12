@@ -76,7 +76,7 @@ https://teams.microsoft.com/l/meetup-join/19%3afa289e31b4aa410485b913a1dfbff086%
  進行役: 阪野颯斗      
 代表者: 金原恭兵  
 **参加:** 伊藤稚菜  稲垣来未  山田隆次  三村丈汰      
-**途中参加:** 佐藤修一郎  森澤直之  牧野祥太    
+**途中参加:** 佐藤修一郎  森澤直之  （欠席：牧野祥太）    
 
 ## チーム C: Teams 小部屋リンク   
 https://teams.microsoft.com/l/meetup-join/19%3a436f0f356503448c9c60b7c4814b3b71%40thread.tacv2/1613123968447?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%229019c8b3-5d03-410c-af57-fde3a773365d%22%7d
