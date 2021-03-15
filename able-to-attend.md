@@ -31,6 +31,6 @@ https://github.com/fs5013-furi-sutao/fs-its-accepting-surveys-list
 
 ■アンケート締め切り
 
-3/17(水) 23:59 まで
+![3/17(水) 23:59 締め切り](./https://raw.githubusercontent.com/fs5013-furi-sutao/fs-its-accepting-surveys-list/dd470b498df9df418306d7e14e43229592075cc0/closing-monthly-meeting-2021-03-impressions.svg)
 
 以上、よろしくお願い致します。
