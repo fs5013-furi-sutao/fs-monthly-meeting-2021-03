@@ -24,7 +24,7 @@ https://youtu.be/Tl7QFsUX7fE
 参加可能日時候補を橋本の LINE 宛に返信をお願いします。
 
 例）参加可能日時候補：  
-![例）参加可能日時候補](./ex-schedule-of-workshop.jpg)
+<img src="./ex-schedule-of-workshop.jpg" width="120">
 
 ■（３） 感想フォームへの回答
 
