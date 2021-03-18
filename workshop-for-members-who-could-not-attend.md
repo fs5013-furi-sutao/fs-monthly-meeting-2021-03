@@ -6,19 +6,13 @@
 		<td>日付</td>
 		<td>曜日</td>
 		<td>時間</td>
-		<td colspan="2">参加メンバ</td>
-		<td></td>
+		<td colspan="3">参加メンバ</td>
 	</tr>
 	<tr>
-		<td rowspan="5">1</td>
-		<td rowspan="5">03月19日</td>
-		<td rowspan="5">金</td>
-		<td rowspan="5">18:30 ～ 19:10</td>
-		<td>0</td>
-		<td>橋本夏樹</td>
-		<td>進行役</td>
-	</tr>
-	<tr>
+		<td rowspan="4">1</td>
+		<td rowspan="4">03月19日</td>
+		<td rowspan="4">金</td>
+		<td rowspan="4">18:30 ～ 19:10</td>
 		<td>1</td>
 		<td>大島寿久</td>
 		<td>代表者</td>
@@ -39,15 +33,10 @@
 		<td>質問者</td>
 	</tr>
 	<tr>
-		<td rowspan="5">2</td>
-		<td rowspan="5">03月24日</td>
-		<td rowspan="5">水</td>
-		<td rowspan="5">14:00 ～ 14:40</td>
-		<td>0</td>
-		<td>橋本夏樹</td>
-		<td>進行役</td>
-	</tr>
-	<tr>
+		<td rowspan="4">2</td>
+		<td rowspan="4">03月24日</td>
+		<td rowspan="4">水</td>
+		<td rowspan="4">14:00 ～ 14:40</td>
 		<td>1</td>
 		<td>福嵜拓也</td>
 		<td>代表者</td>
@@ -68,15 +57,10 @@
 		<td>質問者</td>
 	</tr>
 	<tr>
-		<td rowspan="5">3</td>
-		<td rowspan="5">03月25日</td>
-		<td rowspan="5">木</td>
-		<td rowspan="5">19:00 ～ 19:40</td>
-		<td>0</td>
-		<td>橋本夏樹</td>
-		<td>進行役</td>
-	</tr>
-	<tr>
+		<td rowspan="4">3</td>
+		<td rowspan="4">03月25日</td>
+		<td rowspan="4">木</td>
+		<td rowspan="4">19:00 ～ 19:40</td>
 		<td>1</td>
 		<td>余吾裕</td>
 		<td>代表者</td>
@@ -97,15 +81,10 @@
 		<td>質問者</td>
 	</tr>
 	<tr>
-		<td rowspan="5">4</td>
-		<td rowspan="5">03月26日</td>
-		<td rowspan="5">金</td>
-		<td rowspan="5">18:30 ～ 19:10</td>
-		<td>0</td>
-		<td>橋本夏樹</td>
-		<td>進行役</td>
-	</tr>
-	<tr>
+		<td rowspan="4">4</td>
+		<td rowspan="4">03月26日</td>
+		<td rowspan="4">金</td>
+		<td rowspan="4">18:30 ～ 19:10</td>
 		<td>1</td>
 		<td>森勇人</td>
 		<td>代表者</td>
@@ -126,15 +105,10 @@
 		<td>質問者</td>
 	</tr>
 	<tr>
-		<td rowspan="5">5</td>
-		<td rowspan="5">03月26日</td>
-		<td rowspan="5">金</td>
-		<td rowspan="5">19:30 ～ 20:10</td>
-		<td>0</td>
-		<td>橋本夏樹</td>
-		<td>進行役</td>
-	</tr>
-	<tr>
+		<td rowspan="4">5</td>
+		<td rowspan="4">03月26日</td>
+		<td rowspan="4">金</td>
+		<td rowspan="4">19:30 ～ 20:10</td>
 		<td>1</td>
 		<td>水野裕康</td>
 		<td>代表者</td>
@@ -155,15 +129,10 @@
 		<td>質問者</td>
 	</tr>
 	<tr>
-		<td rowspan="5">6</td>
-		<td rowspan="5">03月29日</td>
-		<td rowspan="5">月</td>
-		<td rowspan="5">14:00 ～ 14:40</td>
-		<td>0</td>
-		<td>橋本夏樹</td>
-		<td>進行役</td>
-	</tr>
-	<tr>
+		<td rowspan="4">6</td>
+		<td rowspan="4">03月29日</td>
+		<td rowspan="4">月</td>
+		<td rowspan="4">14:00 ～ 14:40</td>
 		<td>1</td>
 		<td>井戸渡</td>
 		<td>代表者</td>
@@ -184,15 +153,10 @@
 		<td>質問者</td>
 	</tr>
 	<tr>
-		<td rowspan="5">7</td>
-		<td rowspan="5">03月29日</td>
-		<td rowspan="5">月</td>
-		<td rowspan="5">20:00 ～ 20:40</td>
-		<td>0</td>
-		<td>橋本夏樹</td>
-		<td>進行役</td>
-	</tr>
-	<tr>
+		<td rowspan="4">7</td>
+		<td rowspan="4">03月29日</td>
+		<td rowspan="4">月</td>
+		<td rowspan="4">20:00 ～ 20:40</td>
 		<td>1</td>
 		<td>永島将嗣</td>
 		<td>代表者</td>
@@ -213,15 +177,10 @@
 		<td>質問者</td>
 	</tr>
 	<tr>
-		<td rowspan="5">8</td>
-		<td rowspan="5">03月30日</td>
-		<td rowspan="5">火</td>
-		<td rowspan="5">19:00 ～ 19:40</td>
-		<td>0</td>
-		<td>橋本夏樹</td>
-		<td>進行役</td>
-	</tr>
-	<tr>
+		<td rowspan="4">8</td>
+		<td rowspan="4">03月30日</td>
+		<td rowspan="4">火</td>
+		<td rowspan="4">19:00 ～ 19:40</td>
 		<td>1</td>
 		<td>鈴村卓也</td>
 		<td>代表者</td>
@@ -242,4 +201,3 @@
 		<td>質問者</td>
 	</tr>
 </table>
-
