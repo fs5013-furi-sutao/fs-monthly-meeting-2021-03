@@ -62,7 +62,7 @@ https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/blob/main/how-to
         <td rowspan="7">1</td>
         <td rowspan="7">03月26日</td>
         <td rowspan="7">金</td>
-        <td rowspan="7">11:00 ～ 11:40</td>
+        <td rowspan="7">11:00 ～ 11:45</td>
         <td>1</td>
         <td>鈴村卓也</td>
         <td>代表者</td>
@@ -101,7 +101,7 @@ https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/blob/main/how-to
         <td rowspan="8">2</td>
         <td rowspan="8">03月29日</td>
         <td rowspan="8">月</td>
-        <td rowspan="8">14:00 ～ 14:40</td>
+        <td rowspan="8">14:00 ～ 14:45</td>
         <td>1</td>
         <td>森勇人</td>
         <td>代表者</td>
@@ -156,6 +156,18 @@ https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-03/blob/main/how-to
 |11:15 ~ 11:35 |20分 |ワーク実践（質問タイム） |チーム |あなたのチームメンバを魅力的に紹介しよう(質問タイム) |
 |11:35 ~ 11:40 |5分 |ワーク実践（発表タイム） |チーム |発表タイム |
 |11:40 ~ 11:45 |5分 |感想アンケート記載 |各自 |今回のワークの感想を [アンケートフォーム](https://forms.gle/KJKDLAJfmnx1hARi8) から記載 |
+
+<br />
+
+### 3月29日(月) 開催
+
+|時刻 |所要時間 |内容 | 担当 |概要 |
+|:-- |:-- |:-- |:-- |:-- |
+|14:00 ~ 14:05 |5分 |ワークの説明 |橋本 |ワークショップの説明（目的・やり方） |
+|14:05 ~ 14:15 |10分 |ワーク実践（自己紹介タイム） |チーム |はじめまして、こんにちは～ |
+|14:15 ~ 14:35 |20分 |ワーク実践（質問タイム） |チーム |あなたのチームメンバを魅力的に紹介しよう(質問タイム) |
+|14:35 ~ 14:40 |5分 |ワーク実践（発表タイム） |チーム |発表タイム |
+|14:40 ~ 14:45 |5分 |感想アンケート記載 |各自 |今回のワークの感想を [アンケートフォーム](https://forms.gle/KJKDLAJfmnx1hARi8) から記載 |
 
 <br />
 
